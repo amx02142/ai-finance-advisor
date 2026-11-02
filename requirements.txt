@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+google-genai>=1.0
+openpyxl>=3.1
+python-dotenv>=1.0
+markdown>=3.5
+pytest>=8.0
